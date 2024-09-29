@@ -5,8 +5,6 @@
 <strong>X-platform Speedtest CLI Application on rust</strong>
 </h1>
 
-![alt text](Designer-3.jpeg)
-
 ## Features
 
 - Cross-platform compatibility (Windows, macOS, Linux)
